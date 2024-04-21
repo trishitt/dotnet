@@ -1,5 +1,6 @@
 ﻿using System;
 using Program.Math;
+using Program;
 
 namespace Program
 {
@@ -9,15 +10,21 @@ namespace Program
          static void Main(string[] args)
         {
             Console.WriteLine("Enter a number:");
-            int number = int.Parse(Console.ReadLine());
+            var number = int.Parse(Console.ReadLine());
 
-            int factorial = 1;
-            for (int i = number; i >= 1; i--)
+            var factorial = 1;
+            for (var i = number; i >= 1; i--)
             {
                 factorial = factorial *i;
             }
 
             Console.WriteLine(factorial);
+
+            var class1 = new Class1();
+           // class1.haha = "my name is this";
+            Console.WriteLine(class1.haha);
         }
+        
+
     }
 }

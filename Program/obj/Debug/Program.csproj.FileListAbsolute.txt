@@ -5,3 +5,10 @@ C:\Users\Trishit\source\repos\Program\Program\obj\Debug\Program.csproj.AssemblyR
 C:\Users\Trishit\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
 C:\Users\Trishit\source\repos\Program\Program\obj\Debug\Program.exe
 C:\Users\Trishit\source\repos\Program\Program\obj\Debug\Program.pdb
+C:\Users\Trishit\Source\Repos\dotnet\Program\bin\Debug\Program.exe.config
+C:\Users\Trishit\Source\Repos\dotnet\Program\bin\Debug\Program.exe
+C:\Users\Trishit\Source\Repos\dotnet\Program\bin\Debug\Program.pdb
+C:\Users\Trishit\Source\Repos\dotnet\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\Trishit\Source\Repos\dotnet\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Trishit\Source\Repos\dotnet\Program\obj\Debug\Program.exe
+C:\Users\Trishit\Source\Repos\dotnet\Program\obj\Debug\Program.pdb
